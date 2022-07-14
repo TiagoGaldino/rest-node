@@ -1,0 +1,17 @@
+{
+  "name": "ms-autentication",
+  "version": "1.0.0",
+  "description": "Microservice criando durante a aula de REST NODE AUTH da DIO",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./",
+    "build": "tsc -p ."
+  },
+  "author": "Tiago Galdino",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.0.4",
+    "typescript": "^4.7.4"
+  }
+}
